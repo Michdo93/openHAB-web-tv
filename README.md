@@ -592,7 +592,7 @@ Text label="Webtv" icon=screen {
     Switch item=Webtv_Ard_Sportschau_2 label="ARD Sportschau 2"
     Switch item=Webtv_ZDF label="ZDF"
     Switch item=Webtv_ZDF_info label="ZDF info"
-    Switch item=Webtv_ZDF_neo"ZDF neo"
+    Switch item=Webtv_ZDF_neo label="ZDF neo"
     Switch item=Webtv_HR label="HR"
     Switch item=Webtv_RBB_Berlin label="RBB Berlin"
     Switch item=Webtv_RBB_Brandenburg label="RBB Brandenburg"
